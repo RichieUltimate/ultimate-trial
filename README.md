@@ -18,6 +18,7 @@ This mod is compatible with most emulators, hardware and Wii. For the best possi
   - Please note that although it is possible to finish the game on Wii, **the Motion Blur is incompatible** and is therefore **disabled on Wii.**
   - The game is **NOT compatible on Bizhawk**. Several freezes and crashes have been observed while using this emulator.
   - There might be some little lags on N64. There are some z-fighting on some textures, on some scenes.
+  - The Wii patch should be applied to the ocarina of time Wad only.
 
 <details>
   <summary>For Wii users</summary>
