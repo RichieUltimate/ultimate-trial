@@ -10,7 +10,13 @@ Release of the game!
 
 In this repository, you may find a patch to be able to play Ultimate trial on your console.
 
-You can use this link to patch a mod : https://hack64.net/tools/patcher.php. You would need to put the rom and the patch.
+You can use this link to patch the mod: 
+https://hack64.net/tools/patcher.php. 
+
+If patching for Wii, you can use this, and provide the WAD:
+https://www.marcrobledo.com/RomPatcher.js/
+
+You need the rom and the patch.
 
 The patch is for US 1.0 ROM.
 
