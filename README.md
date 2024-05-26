@@ -2,9 +2,17 @@
 
 ## Version
 
-**Version 1.0 :**
+**Current Version: 1.0.1**
 
-Release of the game!
+QoL updates
+
+<details>
+  <summary>Previous Versions</summary>
+  
+  - Version 1.0 : Release of the game!
+</details>
+
+
 
 ## Installation
 
