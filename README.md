@@ -2,13 +2,14 @@
 
 ## Version
 
-**Current Version: 1.0.1**
+**Current Version: 1.0.2**
 
-QoL updates
+Bug fixes and balancing
 
 <details>
   <summary>Previous Versions</summary>
   
+  - Version 1.0.1 : QoL updates
   - Version 1.0 : Release of the game!
 </details>
 
