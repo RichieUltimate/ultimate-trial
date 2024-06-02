@@ -26,13 +26,13 @@ https://www.marcrobledo.com/RomPatcher.js/
 
 You need the rom and the patch.
 
-The patch is for US 1.0 ROM.
+- The N64/Emulator patch needs to be applied to the OoT US 1.0 ROM.
+- The Wii VC patch needs to be applied to the Ocarina of Time US WAD.
 
 This mod is compatible with most emulators, hardware and Wii. For the best possible experience, **I recommend using the hardware or emulator.**
   - Please note that although it is possible to finish the game on Wii, **the Motion Blur is incompatible** and is therefore **disabled on Wii.**
   - The game is **NOT compatible on Bizhawk**. Several freezes and crashes have been observed while using this emulator.
   - There might be some little lags on N64. There are some z-fighting on some textures, on some scenes.
-  - The Wii patch should be applied to the Ocarina Of Time Wad only.
   - Playing on N64 hardware **requires the Expansion Pak**.
 
 <details>
