@@ -54,12 +54,12 @@ Activating the "Always use interpreter core" option is necessary.
 ## Compatibility
 
 The game has been tested with : 
+- Project64
 - Simple64
 - N64
 - Dolphin
 - RetroArch
 - Ares
-- Project64
 
 
 ## Feedback
