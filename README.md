@@ -33,6 +33,7 @@ This mod is compatible with most emulators, hardware and Wii. For the best possi
   - The game is **NOT compatible on Bizhawk**. Several freezes and crashes have been observed while using this emulator.
   - There might be some little lags on N64. There are some z-fighting on some textures, on some scenes.
   - The Wii patch should be applied to the Ocarina Of Time Wad only.
+  - Playing on N64 hardware **requires the Expansion Pak**.
 
 <details>
   <summary>For Wii users</summary>
@@ -41,7 +42,12 @@ There's a secret in this game that we're sorry to say can't be used on Wii.
 
 <details>
   <summary>For PJ64 users</summary>
-Activating the "Always use interpreter core" option is highly recommended.
+Activating the "Always use interpreter core" option is necessary.
+
+1. Options -> Configuration - Select "General settings" and uncheck "Hide advanced settings"
+2. Select "Advanced" and check "Always use interpreter core"
+3. Hit "Apply" and "Ok"
+
 </details>
 
 
