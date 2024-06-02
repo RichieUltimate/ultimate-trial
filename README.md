@@ -66,6 +66,10 @@ The game has been tested with :
 
 If you notice any issue or have any feedback or suggestion, feel free to let us know on our [Discord Server](https://discord.gg/bSxVK8xSHu) !
 
+## Soundtrack
+
+You can listen to each track of the soundtrack in our [Youtube Playlist](https://www.youtube.com/playlist?list=PLYk0419DovZIqIPCqFXclkKI8gfu2PJ_X).
+
 ## Credits
 
 Developers of the game :
