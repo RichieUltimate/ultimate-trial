@@ -2,13 +2,13 @@
 
 ## Version
 
-**Current Version: 1.0.3**
+**Current Version: 1.0.4**
 
 Bug fixes and balancing
 
 <details>
   <summary>Previous Versions</summary>
-  - Version 1.0.2 : Bug fixes and balancing
+  - Version 1.0.2 - 1.0.3 : Bug fixes and balancing
   - Version 1.0.1 : QoL updates
   - Version 1.0 : Release of the game!
 </details>
@@ -24,6 +24,8 @@ https://hack64.net/tools/patcher.php.
 
 If patching for Wii, you can use this, and provide the WAD:
 https://www.marcrobledo.com/RomPatcher.js/
+
+This game is free. If you bought it, you've been scammed.
 
 You need the rom and the patch.
 
