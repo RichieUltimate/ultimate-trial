@@ -67,11 +67,15 @@ The game has been tested with :
 
 ## Feedback
 
-If you notice any issue or have any feedback or suggestion, feel free to let us know on our [Discord Server](https://discord.gg/bSxVK8xSHu) !
+If you notice any issue or have any feedback or suggestion, feel free to let us know on our [Discord Server](https://discord.gg/bSxVK8xSHu)!
 
 ## Soundtrack
 
 You can listen to each track of the soundtrack in our [Youtube Playlist](https://www.youtube.com/playlist?list=PLYk0419DovZIqIPCqFXclkKI8gfu2PJ_X).
+
+## Guide
+
+You want to know every secret hidden in the Ultimate Trial? Then check out our [Guide](https://github.com/RichieUltimate/ultimate-trial/blob/main/Ultimate_Trial_-_Instruction_Booklet.pdf)!
 
 ## Credits
 
