@@ -1,4 +1,5 @@
 # Ultimate Trial
+![](https://github.com/RichieUltimate/ultimate-trial/blob/main/ultimate_trial_logo.png?raw=true)
 
 ## Version
 
