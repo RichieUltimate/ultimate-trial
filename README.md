@@ -1,6 +1,12 @@
 # Ultimate Trial
 ![](https://github.com/RichieUltimate/ultimate-trial/blob/main/ultimate_trial_logo.png?raw=true)
 
+
+## Translation
+
+French and German translation is in progress, and should be available soon
+
+
 ## Version
 
 **Current Version: 1.0.5**
