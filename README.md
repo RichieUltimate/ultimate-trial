@@ -30,6 +30,8 @@ Do you have any suggestions for future versions? Come and see us on [Discord Ser
 - German
 - French
 
+The language can be selected directly from the File select menu options.
+
 ## Installation
 
 In this repository, you may find a patch to be able to play Ultimate trial on your console.
