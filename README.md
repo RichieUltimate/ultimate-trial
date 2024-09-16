@@ -11,6 +11,8 @@
 
 Translation, new content, bug fixes and balancing
 
+The changelog is available here : [Changelog](https://github.com/RichieUltimate/ultimate-trial/releases/tag/v1.1)
+
 <details>
   <summary>Previous Versions</summary>
  
