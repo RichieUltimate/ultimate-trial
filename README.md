@@ -1,26 +1,31 @@
-# Ultimate Trial
+ # Ultimate Trial
 ![](https://github.com/RichieUltimate/ultimate-trial/blob/main/ultimate_trial_logo.png?raw=true)
 
 
-## Translation
 
-French and German translation is in progress, and should be available soon
 
 
 ## Version
 
-**Current Version: 1.0.5**
+**Current Version: 1.1.0**
 
-Bug fixes and balancing
+Translation, new content, bug fixes and balancing
 
 <details>
   <summary>Previous Versions</summary>
-  - Version 1.0.2 - 1.0.4 : Bug fixes and balancing
+  - Version 1.0.2 - 1.0.5 : Bug fixes and balancing
   - Version 1.0.1 : QoL updates
   - Version 1.0 : Release of the game!
 </details>
 
+Do you have any suggestions for future versions? Come and see us on [Discord Server](https://discord.gg/bSxVK8xSHu)!
 
+## Translation
+
+3 languages are available:
+- English
+- German
+- French
 
 ## Installation
 
@@ -96,6 +101,11 @@ Developers of the game :
 - Zeraphyr
 - Woon
 
+Translators : 
+- Babou Linet (French translator)
+- Only1_Rudeboy (German translator)
+- RetroEggy (German translator)
+
 Contributors :
 - Debuglog
 - Le Séducteur
@@ -116,5 +126,6 @@ Contributors :
 - Tharo
 - bradyOne
 - Mark Kurko
+- scittykitty
 
 Have fun !
