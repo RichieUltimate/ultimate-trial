@@ -13,6 +13,7 @@ Translation, new content, bug fixes and balancing
 
 <details>
   <summary>Previous Versions</summary>
+ 
   - Version 1.0.2 - 1.0.5 : Bug fixes and balancing
   - Version 1.0.1 : QoL updates
   - Version 1.0 : Release of the game!
