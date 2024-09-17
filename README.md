@@ -11,8 +11,11 @@
 
 Translation, new content, bug fixes and balancing
 
+The changelog is available here : [Changelog](https://github.com/RichieUltimate/ultimate-trial/releases/tag/v1.1)
+
 <details>
   <summary>Previous Versions</summary>
+ 
   - Version 1.0.2 - 1.0.5 : Bug fixes and balancing
   - Version 1.0.1 : QoL updates
   - Version 1.0 : Release of the game!
@@ -26,6 +29,8 @@ Do you have any suggestions for future versions? Come and see us on [Discord Ser
 - English
 - German
 - French
+
+The language can be selected directly from the File select menu options.
 
 ## Installation
 
