@@ -70,6 +70,19 @@ Activating the "Always use interpreter core" option is necessary.
 
 </details>
 
+## Difficulty
+
+**Easy**:
+- You lose half as much health when hit.
+
+**Regular**:
+- Standard difficulty with balanced damage and enemy behavior.
+
+**Difficult**:
+- You take twice as much damage when attacked.
+- Bosses have twice as much health.
+- Some bosses have stronger attacks.
+- Certain enemies, like Stalfos, can attack you simultaneously when you target them.
 
 ## Compatibility
 
