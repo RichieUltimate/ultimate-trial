@@ -46,7 +46,9 @@ This game is free. If you bought it, you've been scammed.
 
 You need the rom and the patch.
 
-- The N64/Emulator patch needs to be applied to the OoT US 1.0 ROM.
+- The N64/Emulator patch needs to be applied to the OoT US 1.0 ROM.<br>
+(can be labeled as U 1.0, NTSC 1.0 or Rev 0)<br>
+md5 hash: `5bd1fe107bf8106b2ab6650abecd54d6`
 - The Wii VC patch needs to be applied to the Ocarina of Time US WAD.
 
 This mod is compatible with most emulators, hardware and Wii. For the best possible experience, **I recommend using the hardware or emulator.**
