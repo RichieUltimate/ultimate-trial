@@ -15,10 +15,11 @@ The changelog is available here : [Changelog](https://github.com/RichieUltimate/
 
 <details>
   <summary>Previous Versions</summary>
-  - Version 1.1.1 : Bug fixes
+
+  - Version 1.11 : Bug fixes
   - Version 1.1 : Translation, new content, bug fixes and balancing
-  - Version 1.0.2 - 1.0.5 : Bug fixes and balancing
-  - Version 1.0.1 : QoL updates
+  - Version 1.02 - 1.0.5 : Bug fixes and balancing
+  - Version 1.01 : QoL updates
   - Version 1.0 : Release of the game!
 </details>
 
