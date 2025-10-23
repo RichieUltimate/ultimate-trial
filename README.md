@@ -1,4 +1,4 @@
- # Ultimate Trial
+# Ultimate Trial
 ![](https://github.com/RichieUltimate/ultimate-trial/blob/main/ultimate_trial_logo.png?raw=true)
 
 
@@ -7,30 +7,32 @@
 
 ## Version
 
-**Current Version: 1.1.2**
+**Current Version: 1.2.0**
 
 Bug fixes
 
-The changelog is available here : [Changelog](https://github.com/RichieUltimate/ultimate-trial/releases/tag/v1.1)
+The changelog is available here : [Changelog](https://github.com/RichieUltimate/ultimate-trial/releases/tag/v1.2)
 
 <details>
   <summary>Previous Versions</summary>
-
-  - Version 1.11 : Bug fixes
-  - Version 1.1 : Translation, new content, bug fixes and balancing
-  - Version 1.02 - 1.0.5 : Bug fixes and balancing
-  - Version 1.01 : QoL updates
-  - Version 1.0 : Release of the game!
+  
+- Version 1.12 : Bug fixes 
+- Version 1.11 : Bug fixes
+- Version 1.1 : Translation, new content, bug fixes and balancing
+- Version 1.02 - 1.0.5 : Bug fixes and balancing
+- Version 1.01 : QoL updates
+- Version 1.0 : Release of the game!
 </details>
 
 Do you have any suggestions for future versions? Come and see us on [Discord Server](https://discord.gg/bSxVK8xSHu)!
 
 ## Translation
 
-3 languages are available:
+4 languages are available:
 - English
 - German
 - French
+- Spanish
 
 The language can be selected directly from the File select menu options.
 
@@ -78,15 +80,50 @@ Activating the "Always use interpreter core" option is necessary.
 
 **Easy**:
 - You lose half as much health when hit.
+- Enemies are usually weaker and limited to the most basic types when Randologic is enabled.
 
 **Regular**:
 - Standard difficulty with balanced damage and enemy behavior.
+- Enemy selection through Randologic is balanced, offering a fair mix of weak and strong enemies.
 
 **Difficult**:
 - You take twice as much damage when attacked.
 - Bosses have twice as much health.
 - Some bosses have stronger attacks.
 - Certain enemies, like Stalfos, can attack you simultaneously when you target them.
+- Stronger enemies are more likely to appear with Randologic enabled, even early in the game.
+
+## Randologic
+
+Three modes are available:
+
+- Disabled
+- Thematic
+- Chaotic
+
+You can select your preferred mode when creating your save file, or directly from the Stronghold menu.
+
+**Disabled Mode**
+
+No randomization is applied — enemies always remain the same and are never shuffled.
+
+**Thematic Mode**
+
+Enemies are shuffled each time you enter a Trial room, but only among those that match the theme of the current Trial.
+For example:
+
+- A Dodongo can appear in any room of the Dodongo Cavern Trial, but it will not appear inside the Deku Tree Trial.
+
+**Chaotic Mode**
+
+Enemies can appear in any room, regardless of their original area or theme — with a few exceptions to prevent bugs or soft locks.
+You might even encounter an Iron Knuckle at the very beginning of the game.
+
+**💡 Notes:**
+
+- Some enemies won’t appear early in the game to prevent possible soft locks.
+- Each mode has been designed with a progressive difficulty that scales with your in-game progress, ensuring a balanced and enjoyable experience.
+- Enemies can be adjusted and selected based on the chosen difficulty. The higher the difficulty level, the greater the chances of encountering stronger enemies.
 
 ## Compatibility
 
@@ -127,6 +164,8 @@ Translators :
 - Babou Linet (French translator)
 - Only1_Rudeboy (German translator)
 - RetroEggy (German translator)
+- Daniel León (Reonu) (Spanish translator)
+- Elena Pereira (Spanish translator)
 
 Contributors :
 - Debuglog
@@ -149,5 +188,7 @@ Contributors :
 - bradyOne
 - Mark Kurko
 - scittykitty
+- Daniel León (Reonu)
+- Nokaubure
 
 Have fun !
