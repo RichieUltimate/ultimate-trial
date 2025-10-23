@@ -11,7 +11,7 @@
 
 Bug fixes
 
-The changelog is available here : [Changelog](https://github.com/RichieUltimate/ultimate-trial/releases/tag/v1.2)
+The changelog is available here : [Changelog](https://github.com/RichieUltimate/ultimate-trial/releases/tag/v1.20)
 
 <details>
   <summary>Previous Versions</summary>
