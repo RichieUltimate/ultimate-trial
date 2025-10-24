@@ -11,7 +11,7 @@
 
 Randologic, Achievements, Spanish language, Widescreen and more!
 
-The changelog is available here : [Changelog](https://github.com/RichieUltimate/ultimate-trial/releases/tag/v1.20)
+The changelog is available here : [Changelog](https://github.com/RichieUltimate/ultimate-trial/releases/tag/v1.2.10)
 
 <details>
   <summary>Previous Versions</summary>
