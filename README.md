@@ -7,11 +7,11 @@
 
 ## Version
 
-**Current Version: 1.2.1**
+**Current Version: 1.2.2**
 
 Randologic, Achievements, Spanish language, Widescreen and more!
 
-The changelog is available here : [Changelog](https://github.com/RichieUltimate/ultimate-trial/releases/tag/v1.2.10)
+The changelog is available here : [Changelog](https://github.com/RichieUltimate/ultimate-trial/releases/tag/v1.2.2)
 
 <details>
   <summary>Previous Versions</summary>
