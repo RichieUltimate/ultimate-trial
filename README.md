@@ -164,7 +164,7 @@ Translators :
 - Babou Linet (French translator)
 - Only1_Rudeboy (German translator)
 - RetroEggy (German translator)
-- Daniel León (Reonu) (Spanish translator)
+- Reonu (Spanish translator)
 - Elena Pereira (Spanish translator)
 
 Contributors :
@@ -188,7 +188,7 @@ Contributors :
 - bradyOne
 - Mark Kurko
 - scittykitty
-- Daniel León (Reonu)
+- Reonu
 - Nokaubure
 
 Have fun !
