@@ -7,15 +7,17 @@
 
 ## Version
 
-**Current Version: 1.2.2**
+**Current Version: 1.2.3**
 
 Randologic, Achievements, Spanish language, Widescreen and more!
 
-The changelog is available here : [Changelog](https://github.com/RichieUltimate/ultimate-trial/releases/tag/v1.2.2)
+The changelog is available here : [Changelog](https://github.com/RichieUltimate/ultimate-trial/releases/tag/v1.2.3)
 
 <details>
   <summary>Previous Versions</summary>
-  
+- Version 1.22 : Bug fixes
+- Version 1.21 : Bug fixes
+- Version 1.2 : Randologic, Achievements, Spanish language, Widescreen and more!  
 - Version 1.12 : Bug fixes 
 - Version 1.11 : Bug fixes
 - Version 1.1 : Translation, new content, bug fixes and balancing
@@ -81,6 +83,7 @@ Activating the "Always use interpreter core" option is necessary.
 **Easy**:
 - You lose half as much health when hit.
 - Enemies are usually weaker and limited to the most basic types when Randologic is enabled.
+- Bosses now have half as much health
 
 **Regular**:
 - Standard difficulty with balanced damage and enemy behavior.
